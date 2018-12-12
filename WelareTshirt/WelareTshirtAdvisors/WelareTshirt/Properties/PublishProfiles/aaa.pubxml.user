@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>\\192.168.10.13\WelfareTshirtAdvisors</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="advisors.aspx">
+      <publishTime>02/24/2015 10:55:31</publishTime>
+    </File>
+    <File Include="bin/WelareTshirt.dll">
+      <publishTime>02/24/2015 11:25:24</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>02/20/2015 11:00:48</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.intellisense.js">
+      <publishTime>02/13/2015 09:47:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.js">
+      <publishTime>02/13/2015 09:47:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.min.js">
+      <publishTime>02/13/2015 09:47:31</publishTime>
+    </File>
+    <File Include="Styles/datepicker.min.css">
+      <publishTime>02/13/2015 09:48:30</publishTime>
+    </File>
+    <File Include="Styles/StyleSheet.css">
+      <publishTime>02/13/2015 09:48:30</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/24/2015 11:25:51</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

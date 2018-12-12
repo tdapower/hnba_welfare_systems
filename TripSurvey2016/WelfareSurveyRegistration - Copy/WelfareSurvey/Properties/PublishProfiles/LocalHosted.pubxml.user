@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\LocalHostedWebApps\WelfareRegistration</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AttendanceList.aspx">
+      <publishTime>08/19/2016 17:34:37</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/ar/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/cs/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/de/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/es/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/fr/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/he/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/hi/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/it/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/ja/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/ko/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>06/20/2013 00:35:04</publishTime>
+    </File>
+    <File Include="bin/nl/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/pt/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/ru/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/tr-TR/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/WelfareSurvey.dll">
+      <publishTime>08/19/2016 17:55:25</publishTime>
+    </File>
+    <File Include="bin/zh-CHS/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/zh-CHT/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>11/20/2014 16:46:17</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>08/16/2016 10:53:30</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/18/2016 17:45:53</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap-datepicker.js">
+      <publishTime>09/12/2015 16:06:48</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>09/12/2015 12:51:27</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.intellisense.js">
+      <publishTime>11/20/2014 16:46:17</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.js">
+      <publishTime>11/20/2014 16:46:17</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.min.js">
+      <publishTime>11/20/2014 16:46:17</publishTime>
+    </File>
+    <File Include="Styles/bootstrap.min.css">
+      <publishTime>09/12/2015 14:05:57</publishTime>
+    </File>
+    <File Include="Styles/datepicker.min.css">
+      <publishTime>11/21/2014 11:26:11</publishTime>
+    </File>
+    <File Include="Styles/neon.css">
+      <publishTime>09/12/2015 13:41:54</publishTime>
+    </File>
+    <File Include="Styles/StyleSheet.css">
+      <publishTime>08/18/2016 18:41:34</publishTime>
+    </File>
+    <File Include="SurveyForm.aspx">
+      <publishTime>08/18/2016 19:02:24</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/19/2016 09:21:34</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

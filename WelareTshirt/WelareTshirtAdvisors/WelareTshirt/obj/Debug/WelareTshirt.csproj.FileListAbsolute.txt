@@ -1,0 +1,12 @@
+E:\Development\Welfare\WelareTshirt\WelareTshirt\WelareTshirt\obj\Debug\WelareTshirt.csprojResolveAssemblyReference.cache
+E:\Development\Welfare\WelareTshirt\WelareTshirt\WelareTshirt\bin\WelareTshirt.dll.config
+E:\Development\Welfare\WelareTshirt\WelareTshirt\WelareTshirt\bin\WelareTshirt.dll
+E:\Development\Welfare\WelareTshirt\WelareTshirt\WelareTshirt\bin\WelareTshirt.pdb
+E:\Development\Welfare\WelareTshirt\WelareTshirt\WelareTshirt\obj\Debug\WelareTshirt.dll
+E:\Development\Welfare\WelareTshirt\WelareTshirt\WelareTshirt\obj\Debug\WelareTshirt.pdb
+E:\Development\Welfare\WelareTshirt\WelareTshirtAdvisors\WelareTshirt\bin\WelareTshirt.dll.config
+E:\Development\Welfare\WelareTshirt\WelareTshirtAdvisors\WelareTshirt\bin\WelareTshirt.dll
+E:\Development\Welfare\WelareTshirt\WelareTshirtAdvisors\WelareTshirt\bin\WelareTshirt.pdb
+E:\Development\Welfare\WelareTshirt\WelareTshirtAdvisors\WelareTshirt\obj\Debug\WelareTshirt.csprojResolveAssemblyReference.cache
+E:\Development\Welfare\WelareTshirt\WelareTshirtAdvisors\WelareTshirt\obj\Debug\WelareTshirt.dll
+E:\Development\Welfare\WelareTshirt\WelareTshirtAdvisors\WelareTshirt\obj\Debug\WelareTshirt.pdb

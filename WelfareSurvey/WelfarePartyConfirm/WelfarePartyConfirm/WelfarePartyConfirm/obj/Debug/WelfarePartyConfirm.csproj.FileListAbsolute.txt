@@ -1,0 +1,7 @@
+E:\Development\WelfareSurvey\WelfarePartyConfirm\WelfarePartyConfirm\WelfarePartyConfirm\bin\WelfarePartyConfirm.dll.config
+E:\Development\WelfareSurvey\WelfarePartyConfirm\WelfarePartyConfirm\WelfarePartyConfirm\bin\WelfarePartyConfirm.dll
+E:\Development\WelfareSurvey\WelfarePartyConfirm\WelfarePartyConfirm\WelfarePartyConfirm\bin\WelfarePartyConfirm.pdb
+E:\Development\WelfareSurvey\WelfarePartyConfirm\WelfarePartyConfirm\WelfarePartyConfirm\obj\Debug\WelfarePartyConfirm.csprojResolveAssemblyReference.cache
+E:\Development\WelfareSurvey\WelfarePartyConfirm\WelfarePartyConfirm\WelfarePartyConfirm\obj\Debug\WelfarePartyConfirm.dll
+E:\Development\WelfareSurvey\WelfarePartyConfirm\WelfarePartyConfirm\WelfarePartyConfirm\obj\Debug\WelfarePartyConfirm.pdb
+E:\Development\WelfareSurvey\WelfarePartyConfirm\WelfarePartyConfirm\WelfarePartyConfirm\bin\System.Data.OracleClient.dll

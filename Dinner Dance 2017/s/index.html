@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>[fcc] Survey form</title>
+  
+  
+  <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/css/bootstrap.min.css'>
+
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+  <main id="main" class="card">
+
+  <!-- HEADER -->
+  <header class="card-header">
+    <h1 id="title" class="text-center">Survey form</h1>
+  </header>
+
+  <!-- FORM -->
+  <div class="card-block">
+    <p id="description" class="text-center">Please fill out the form as accurately as possible</p>
+    <hr>
+    <form id="survey-form">
+
+      <!-- field: name -->
+      <div class="form-group row">
+        <label for="name" id="name-label" class="col-2 col-form-label">Name *</label>
+        <div class="col-10">
+          <input class="form-control" type="text" id="name" placeholder="Your name..." required>
+        </div>
+      </div>
+
+      <!-- field: email -->
+      <div class="form-group row">
+        <label for="email" id="email-label" class="col-2 col-form-label">Email *</label>
+        <div class="col-10">
+          <input class="form-control" type="email" id="email" placeholder="Your email..." required>
+        </div>
+      </div>
+
+      <!-- field: age -->
+      <div class="form-group row">
+        <label for="number" id="number-label" class="col-2 col-form-label">Age</label>
+        <div class="col-10">
+          <input class="form-control" type="number" id="number" placeholder="Your age..." min="0" max="150">
+        </div>
+      </div>
+
+      <!-- field: gender -->
+      <div class="form-group row">
+        <label id="gender-label" class="col-2 col-form-label">Gender</label>
+        <div class="col-10">
+
+          <div class="form-check form-check-inline">
+            <label class="form-check-label">
+              <input class="form-check-input" type="radio" name="gender" id="gender-male" value="male"> Male
+            </label>
+          </div>
+          <div class="form-check form-check-inline">
+            <label class="form-check-label">
+              <input class="form-check-input" type="radio" name="gender" id="gender-female" value="female"> Female
+            </label>
+          </div>
+          <div class="form-check form-check-inline">
+            <label class="form-check-label">
+              <input class="form-check-input" type="radio" name="gender" id="gender-none" value="none"> Prefer not to say
+            </label>
+          </div>
+          <div class="form-check form-check-inline">
+            <label class="form-check-label">
+              <input class="form-check-input" type="radio" name="gender" id="gender-other" value="other"> Other
+            </label>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- field: situation -->
+      <div class="form-group row">
+        <label for="dropdown" id="dropdown-label" class="col-2 col-form-label">Situation</label>
+        <div class="col-10">
+          <select class="form-control" id="dropdown">
+            <option selected disabled>Select your situation</option>
+            <option>Student</option>
+            <option>Full time Job</option>
+            <option>Full time Learner</option>
+            <option>Full time Job</option>
+            <option>Prefer not to say</option>
+            <option>Other</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- field: fools game -->
+      <div class="form-group row">
+        <label id="fool-label" class="col-2 col-form-label">What are the right answers ?</label>
+        <div class="col-10">
+
+          <div class="form-check form-check-inline">
+            <label class="form-check-label">
+              <input name="answer" class="form-check-input" type="checkbox" id="answer-a" value="A"> A
+            </label>
+          </div>
+          <div class="form-check form-check-inline">
+            <label class="form-check-label">
+              <input name="answer" class="form-check-input" type="checkbox" id="answer-b" value="B"> B
+            </label>
+          </div>
+          <div class="form-check form-check-inline">
+            <label class="form-check-label">
+              <input name="answer" class="form-check-input" type="checkbox" id="answer-c" value="C"> C
+            </label>
+          </div>
+          <div class="form-check form-check-inline">
+            <label class="form-check-label">
+              <input name="answer" class="form-check-input" type="checkbox" id="answer-d" value="D"> D
+            </label>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- field : more -->
+      <div class="form-group row">
+        <label for="you" id="you-label" class="col-2 col-form-label">What should we know about you ?</label>
+        <div class="col-10">
+          <textarea class="form-control" id="you" placeholder="I am..."></textarea>
+        </div>
+      </div>
+
+      <!-- submit -->
+      <hr>
+      <div class="row">
+        <div class="col-12">
+          <button id="submit" type="submit" class="btn btn-primary float-right">Submit your answers</button>
+        </div>
+      </div>
+
+   </form>
+</div>
+    
+  </div>
+</main>
+  
+  
+</body>
+</html>

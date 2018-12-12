@@ -1,0 +1,6 @@
+E:\Development\WelfareSurvey\WelfarePartyConfirm\WelfarePartyConfirm\WelfarePartyConfirm\bin\WelfarePartyConfirm.dll.config
+E:\Development\WelfareSurvey\WelfarePartyConfirm\WelfarePartyConfirm\WelfarePartyConfirm\bin\WelfarePartyConfirm.dll
+E:\Development\WelfareSurvey\WelfarePartyConfirm\WelfarePartyConfirm\WelfarePartyConfirm\bin\WelfarePartyConfirm.pdb
+E:\Development\WelfareSurvey\WelfarePartyConfirm\WelfarePartyConfirm\WelfarePartyConfirm\bin\System.Data.OracleClient.dll
+E:\Development\WelfareSurvey\WelfarePartyConfirm\WelfarePartyConfirm\WelfarePartyConfirm\obj\Release\WelfarePartyConfirm.dll
+E:\Development\WelfareSurvey\WelfarePartyConfirm\WelfarePartyConfirm\WelfarePartyConfirm\obj\Release\WelfarePartyConfirm.pdb
